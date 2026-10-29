@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DbgamingLive",
-    "password": "",
+    "username": "Server24/7Bot",
+    "password": "oombu",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 25565,
-    "version": "1.21.1"
+    "ip": "temudonutsmp-s1.aternos.me",
+    "port": 20420,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
